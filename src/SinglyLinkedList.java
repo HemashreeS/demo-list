@@ -24,7 +24,6 @@ public class SinglyLinkedList {
             newNode.next = null;
             tail.next = newNode;
             size++;
-            System.out.println("Hii");
         }
     }
 }
